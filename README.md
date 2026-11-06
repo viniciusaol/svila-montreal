@@ -2,7 +2,7 @@
 
 Página estática em oito telas, feita para celular e computador. Abra `index.html` no navegador para revisão local. Não há compilação nem dependências a instalar.
 
-Endereço proposto: **https://svila.montrealtenis.com.br/**
+Endereço público: **https://svila.montrealtenis.com.br/**
 
 ## Publicação com GitHub Pages
 
@@ -21,4 +21,4 @@ Referência: https://docs.github.com/en/pages/configuring-a-custom-domain-for-yo
 
 ## Conteúdo e identidade
 
-Gravação e ferramentas atualmente disponíveis: R$ 25. Disponível por enquanto na quadra 04. Active Play e gravação automática ativos, conforme informação da Montreal. Análise completa por IA e Smart Crop em desenvolvimento, sem preço futuro divulgado. Os logos e a imagem de interface foram extraídos da referência fornecida. A fonte Inter acompanha sua licença em `assets/Inter-OFL.txt`.
+Gravação e ferramentas atualmente disponíveis: R$ 25. Disponível por enquanto na quadra 04. Active Play e gravação automática ativos, conforme informação da Montreal. Iniciar antes da partida não exige pagamento antecipado; o vídeo fica bloqueado até o pagamento depois do jogo. Para uma partida já encerrada sem início manual, a recepção realiza o resgate após o pagamento. O resgate direto pelo jogador ainda está em testes, sem data pública de lançamento. Análise completa por IA e Smart Crop em desenvolvimento, sem preço futuro divulgado. Os logos e a imagem de interface foram extraídos da referência fornecida. A fonte Inter acompanha sua licença em `assets/Inter-OFL.txt`.
